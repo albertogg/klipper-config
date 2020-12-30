@@ -1,6 +1,6 @@
 # Klipper Config
 
-Klipper configuration
+Klipper configuration files
 
 ## Ender 3 Pro
 
