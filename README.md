@@ -11,3 +11,4 @@ Klipper configuration for the Ender 3 Pro with the following mods:
 - Probe: BlTouch V3 (5v)
 - Extruder: BMG clone
 - Klipper: Raspberry Pi 3B+
+- Phaetus Dragonfly Hotend (BMS)
