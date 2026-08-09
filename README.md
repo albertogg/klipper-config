@@ -20,3 +20,8 @@ Klipper configuration for the Ender 3 Pro with the following mods:
 - Extruder: BMG clone
 - Host: Raspberry Pi 3B+
 - Phaetus Dragonfly Hotend (BMS)
+
+### Prerequisites
+This configuration uses modern Klipper syntax (e.g., `default_parameter_X`).
+If you encounter the error `Option 'default_parameter_x' is not valid in section 'gcode_macro pause'`,
+please update your Klipper firmware to version 0.11.0 or newer.
